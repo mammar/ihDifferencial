@@ -5,7 +5,7 @@
 <h1>My First Heading.!!</h1>
 <p>My first paragraph.</p>
 <p>My first paragraph after forward merge.</p>
-<p>My first paragraph after forward merge2.</p>
+<p>My first paragraph after forward merge2 after rebase 1.</p>
 <p>My first paragraph after forward merge 3 way merge.</p>
 <p>My first paragraph after forward merge 3 way merge. ohter example</p>
 <p>My first paragraph after forward merge 3 way merge in merge 3 branch.</p>
