@@ -8,4 +8,5 @@
 <p>My first paragraph after forward merge2.</p>
 
 </body>
+<p>My first paragraph after forward merge before 3 way .</p>
 </html> 
