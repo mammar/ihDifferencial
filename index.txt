@@ -9,4 +9,5 @@
 <p>My first paragraph after forward merge 3 way merge.</p>
 
 </body>
+<p>My first paragraph after forward merge before 3 way .</p>
 </html> 
