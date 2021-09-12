@@ -12,4 +12,5 @@
 <p>My first paragraph after rebase 1 in merge 3 branch.</p>
 </body>
 <p>My first paragraph after forward merge before 3 way .</p>
+<p>My first paragraph after forward merge rebase2 way .</p>
 </html> 
